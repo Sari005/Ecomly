@@ -1,0 +1,22 @@
+{
+  "name": "ecomly",
+  "version": "1.0.0",
+  "description": "well",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sari005/Ecomly.git"
+  },
+  "author": "Sari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sari005/Ecomly/issues"
+  },
+  "homepage": "https://github.com/Sari005/Ecomly#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
